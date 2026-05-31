@@ -1,0 +1,8 @@
+{
+  "name": "messenger-messenger-47393e-client",
+  "private": true,
+  "scripts": {
+    "build": "echo vite-build-stub",
+    "test": "echo ok"
+  }
+}
